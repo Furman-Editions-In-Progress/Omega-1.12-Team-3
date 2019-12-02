@@ -1,4 +1,4 @@
-# Editorial Work, Group X
+# Editorial Work, Team 3
 
 MS Escorial Omega 1.12
 
