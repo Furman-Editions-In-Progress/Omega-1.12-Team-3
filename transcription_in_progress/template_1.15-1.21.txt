@@ -5,8 +5,8 @@ urn:cts:greekLit:tlg0012.tlg001.allen:1.15	xruse/w| a)na\ skh/ptrw| , kai\ li/ss
 urn:cts:greekLit:tlg0012.tlg001.e4:1.15		xruse/w| a)na\ skh/ptrw| , kai\ li/sseto pa/ntas *a)xaiou/s ,
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.16	Ἀτρεΐδα δὲ μάλιστα δύω , κοσμήτορε λαῶν ·
-urn:cts:greekLit:tlg0012.tlg001.allen:1.16	*a)trei/+da de\ ma/lista du/w , kosmh/tore law=n #
-urn:cts:greekLit:tlg0012.tlg001.e4:1.16		*a)trei/+da de\ ma/lista du/w , kosmh/tore law=n #
+urn:cts:greekLit:tlg0012.tlg001.allen:1.16	*a)trei/+da de\ ma/lista du/w , kosmh/tore law=n :
+urn:cts:greekLit:tlg0012.tlg001.e4:1.16		*a)trei/+da de\ ma/lista du/w , kosmh/tore law=n :
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.17	Ἀτρεΐδαι τε καὶ ἄλλοι ἐϋκνήμιδες Ἀχαιοί ,
 urn:cts:greekLit:tlg0012.tlg001.allen:1.17	*a)trei/+dai te kai\ a)/lloi e)u+knh/mides *a)xaioi/ ,
