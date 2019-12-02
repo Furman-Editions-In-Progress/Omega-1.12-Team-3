@@ -13,16 +13,16 @@ urn:cts:greekLit:tlg0012.tlg001.allen:1.17	*a)trei/+dai te kai\ a)/lloi e)u+knh/
 urn:cts:greekLit:tlg0012.tlg001.e4:1.17		*a)trei/+dai te kai\ a)/lloi e)u+knh/mides *a)xaioi/ ,
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.18	ὑμῖν μὲν θεοὶ δοῖεν Ὀλύμπια δώματʼ ἔχοντες
-urn:cts:greekLit:tlg0012.tlg001.allen:1.18	u(mi=n me\n qeoi\ doi=en *o)lu/mpia dw/mat# e)/xontes
-urn:cts:greekLit:tlg0012.tlg001.e4:1.18		u(mi=n me\n qeoi\ doi=en *o)lu/mpia dw/mat# e)/xontes
+urn:cts:greekLit:tlg0012.tlg001.allen:1.18	u(mi=n me\n qeoi\ doi=en *o)lu/mpia dw/mat' e)/xontes
+urn:cts:greekLit:tlg0012.tlg001.e4:1.18		u(mi=n me\n qeoi\ doi=en *o)lu/mpia dw/mat' e)/xontes
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.19	ἐκπέρσαι Πριάμοιο πόλιν , εὖ δʼ οἴκαδʼ ἱκέσθαι ·
-urn:cts:greekLit:tlg0012.tlg001.allen:1.19	e)kpe/rsai *pria/moio po/lin , eu)= d# oi)/kad# i(ke/sqai #
-urn:cts:greekLit:tlg0012.tlg001.e4:1.19		e)kpe/rsai *pria/moio po/lin , eu)= d# oi)/kad# i(ke/sqai #
+urn:cts:greekLit:tlg0012.tlg001.allen:1.19	e)kpe/rsai *pria/moio po/lin , eu)= d' oi)/kad' i(ke/sqai :
+urn:cts:greekLit:tlg0012.tlg001.e4:1.19		e)kpe/rsai *pria/moio po/lin , eu)= d' oi)/kad' i(ke/sqai :
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.20	παῖδα δʼ ἐμοὶ λύσαιτε φίλην , τὰ δʼ ἄποινα δέχεσθαι ,
-urn:cts:greekLit:tlg0012.tlg001.allen:1.20	pai=da d# e)moi\ lu/saite fi/lhn , ta\ d# a)/poina de/xesqai ,
-urn:cts:greekLit:tlg0012.tlg001.e4:1.20		pai=da d# e)moi\ lu/saite fi/lhn , ta\ d# a)/poina de/xesqai ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.20	pai=da d' e)moi\ lu/saite fi/lhn , ta\ d' a)/poina de/xesqai ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.20		pai=da d' e)moi\ lu/saite fi/lhn , ta\ d' a)/poina de/xesqai ,
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.21	ἁζόμενοι Διὸς υἱὸν ἑκηβόλον Ἀπόλλωνα .
 urn:cts:greekLit:tlg0012.tlg001.allen:1.21	a(zo/menoi *dio\s ui(o\n e(khbo/lon *a)po/llwna .
