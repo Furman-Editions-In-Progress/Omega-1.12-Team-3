@@ -4,9 +4,8 @@ MS Escorial Omega 1.12
 
 Editors:
 
-- A. Amundssen
-- B. Bonari
-- C. Chung
+- C. Oliveira
+- B. Wilson
 
 Furman University, Department of Classics
 
