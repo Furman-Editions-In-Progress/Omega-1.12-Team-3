@@ -2,7 +2,7 @@
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.15	χρυσέῳ ἀνὰ σκήπτρῳ , καὶ λίσσετο πάντας Ἀχαιούς ,
 urn:cts:greekLit:tlg0012.tlg001.allen:1.15	xruse/w| a)na\ skh/ptrw| , kai\ li/sseto pa/ntas *a)xaiou/s ,
-urn:cts:greekLit:tlg0012.tlg001.e4:1.15		  xru+se/w a)na\ skh/ptrw| , kai\ li/sseto pa/ntas *a)xaiou/s ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.15		  xru+se/w a)na\ skh/ptrw| , k\ai\ e)li+aseto pa/nta/s *a)xaiou/s ,
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.16	Ἀτρεΐδα δὲ μάλιστα δύω , κοσμήτορε λαῶν ·
 urn:cts:greekLit:tlg0012.tlg001.allen:1.16	*a)trei/+da de\ ma/lista du/w , kosmh/tore law=n :
